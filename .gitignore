@@ -1,0 +1,4 @@
+echo "shape_predictor_68_face_landmarks.dat" >> .gitignore
+git add .gitignore
+git commit -m "Update .gitignore to exclude the .dat file"
+git push origin main
